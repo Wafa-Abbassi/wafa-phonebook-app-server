@@ -54,10 +54,12 @@ pagination i limit 15 contacts only in one page ( so if you create 20 contacts: 
 PhoneBook app server is hosted in heroku : https://wafaphonebook.herokuapp.com/ <br/>
 react app is on netlify : https://wafaphonebook.netlify.com/
 
+## How to run the app: 
 
-to run the app: server side : npm run server --> in server you need to create dev.js file in config folder to make environment variables ( to run the app locally ). <br/>
-        client side : npm run start
+server side : npm run server --> in server you need to create dev.js file in config folder to make environment variables ( to run the app locally ). <br/>
+client side : npm run start
 
+<hr>
 
 Here you can checkout final version and test the app : https://wafaphonebook.netlify.com/
 
